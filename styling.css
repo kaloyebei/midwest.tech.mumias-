@@ -98,7 +98,7 @@
       rgba(4, 14, 158, 0.438),
       rgba(231, 230, 229, 0.432)
     ),
-    url("images/bg1.jpg");
+    url("bg1.jpg");
   background-position: center;
   background-size: cover;
   transition: transform 2s ease-in-out;
@@ -111,21 +111,21 @@
         rgba(4, 14, 158, 0.438),
         rgba(231, 230, 229, 0.432)
       ),
-      url("images/bg1.jpg");
+      url("bg1.jpg");
   }
   100% {
     background-image: linear-gradient(
         rgba(4, 14, 158, 0.438),
         rgba(231, 230, 229, 0.432)
       ),
-      url("images/bg3.jpg");
+      url("bg3.jpg");
   }
   0% {
     background-image: linear-gradient(
         rgba(4, 14, 158, 0.438),
         rgba(231, 230, 229, 0.432)
       ),
-      url("images/bg1.jpg");
+      url("bg1.jpg");
   }
 }
 .first-content {
@@ -972,3 +972,4 @@ footer hr {
   padding: 15px 5px;
 }
 }
+
