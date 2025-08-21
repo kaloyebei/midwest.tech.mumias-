@@ -511,7 +511,7 @@ footer hr {
   font-size: 1.3em;
   padding: 20px 10px;
 }
-@media (min-width: 301px) and (max-width: 385px) {
+@media (min-width: 301px) and (max-width: 399px) {
   .navbar {
     display: flex;
     width: 100%;
@@ -971,7 +971,7 @@ footer hr {
   padding: 15px 5px;
 }
 }
-@media (min-width: 351px) and (max-width: 768px) {
+@media (min-width: 400px) and (max-width: 1024px) {
   .navbar {
     display: flex;
     width: 100%;
@@ -1893,6 +1893,7 @@ footer hr {
   padding: 15px 5px;
 }
 }
+
 
 
 
